@@ -1,0 +1,23 @@
+.console-API {
+    height: 100px;
+    border: 2px dashed rgb(116, 114, 114); 
+}
+
+.callStack {
+    border: 2px dashed rgb(116, 114, 114); 
+    height: 300px;
+}
+
+.webApi {
+    border: 2px dashed rgb(116, 114, 114); 
+    height: 300px;  
+}
+
+.callBackQueue {
+    border: 2px dashed rgb(116, 114, 114); 
+    height: 200px;   
+}
+.microTaskQueue {
+    border: 2px dashed rgb(116, 114, 114); 
+    height: 200px;    
+}
